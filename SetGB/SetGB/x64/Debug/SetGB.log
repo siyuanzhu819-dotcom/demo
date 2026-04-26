@@ -1,6 +1,0 @@
-﻿  SetGB.cpp
-e:\ug12\ugopen\nxopen\nxexception.hxx(27): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 class“NXOpen::NXException”的基
-  e:\vs2017\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: 参见“std::exception”的声明
-  e:\ug12\ugopen\nxopen\nxexception.hxx(26): note: 参见“NXOpen::NXException”的声明
-    正在创建库 D:\NXOPEN\source\SetGB\x64\Debug\/SetGB.lib 和对象 D:\NXOPEN\source\SetGB\x64\Debug\/SetGB.exp
-  SetGB.vcxproj -> D:\NXOPEN\source\SetGB\x64\Debug\SetGB.dll
