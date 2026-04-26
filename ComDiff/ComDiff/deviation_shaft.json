@@ -1,0 +1,2421 @@
+{
+  "shaft": {
+    "a": {
+      "type": "shaft",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": -270
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": -270
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": -280
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": -290
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": -290
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": -300
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": -300
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": -310
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": -320
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": -340
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": -360
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": -380
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": -410
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": -460
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": -520
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": -580
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": -660
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": -740
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": -820
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": -920
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": -1050
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": -1200
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": -1350
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": -1500
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": -1650
+        }
+      ]
+    },
+
+    "b": {
+      "type": "shaft",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": -140
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": -140
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": -150
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": -150
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": -150
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": -160
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": -160
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": -170
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": -180
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": -190
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": -200
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": -220
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": -240
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": -260
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": -280
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": -310
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": -340
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": -380
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": -420
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": -480
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": -540
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": -600
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": -680
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": -760
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": -840
+        }
+      ]
+    },
+    "c": {
+      "type": "shaft",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": -60
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": -70
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": -80
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": -95
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": -95
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": -110
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": -110
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": -120
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": -130
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": -140
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": -150
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": -170
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": -180
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": -200
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": -210
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": -230
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": -240
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": -260
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": -280
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": -300
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": -330
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": -360
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": -400
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": -440
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": -480
+        }
+      ]
+    },
+    "d": {
+      "type": "shaft",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": -20
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": -30
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": -40
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": -50
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": -50
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": -65
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": -65
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": -80
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": -80
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": -100
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": -100
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": -120
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": -120
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": -145
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": -145
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": -145
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": -170
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": -170
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": -170
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": -190
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": -190
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": -210
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": -210
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": -230
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": -230
+        }
+      ]
+    },
+    "e": {
+      "type": "shaft",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": -14
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": -20
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": -25
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": -32
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": -32
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": -40
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": -40
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": -50
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": -50
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": -60
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": -60
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": -72
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": -72
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": -85
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": -85
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": -85
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": -100
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": -100
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": -100
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": -110
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": -110
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": -125
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": -125
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": -135
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": -135
+        }
+      ]
+    },
+    "f": {
+      "type": "shaft",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": -6
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": -10
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": -13
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": -16
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": -16
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": -20
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": -20
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": -25
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": -25
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": -30
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": -30
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": -36
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": -36
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": -43
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": -43
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": -43
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": -50
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": -50
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": -50
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": -56
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": -56
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": -62
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": -62
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": -68
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": -68
+        }
+      ]
+    },
+    "g": {
+      "type": "shaft",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": -2
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": -4
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": -5
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": -6
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": -6
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": -7
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": -7
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": -9
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": -9
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": -10
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": -10
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": -12
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": -12
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": -14
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": -14
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": -14
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": -15
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": -15
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": -15
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": -17
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": -17
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": -18
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": -18
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": -20
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": -20
+        }
+      ]
+    },
+    "h": {
+      "type": "shaft",
+      "mode": "constant",
+      "value": 0
+    },
+    "js": {
+      "type": "shaft",
+      "mode": "symmetric"
+    },
+    "k": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 0
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 1
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 1
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 1
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 1
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 2
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 2
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 2
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 2
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 2
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 2
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 3
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 3
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 3
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 3
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 3
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 4
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 4
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 4
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 4
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 4
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 4
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 4
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 5
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 5
+        }
+      ]
+    },
+    "m": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 2
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 4
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 6
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 7
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 7
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 8
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 8
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 9
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 9
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 11
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 11
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 13
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 13
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 15
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 15
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 15
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 17
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 17
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 17
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 20
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 20
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 21
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 21
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 23
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 23
+        }
+      ]
+    },
+    "n": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 4
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 8
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 10
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 12
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 12
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 15
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 15
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 17
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 17
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 20
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 20
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 23
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 23
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 27
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 27
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 27
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 31
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 31
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 31
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 34
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 34
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 37
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 37
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 40
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 40
+        }
+      ]
+    },
+    "p": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 6
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 12
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 15
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 18
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 18
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 22
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 22
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 26
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 26
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 32
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 32
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 37
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 37
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 43
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 43
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 43
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 50
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 50
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 50
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 56
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 56
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 62
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 62
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 68
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 68
+        }
+      ]
+    },
+    "r": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 10
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 15
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 19
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 23
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 23
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 28
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 28
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 34
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 34
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 41
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 43
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 51
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 54
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 63
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 65
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 68
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 77
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 80
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 84
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 94
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 98
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 108
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 114
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 126
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 132
+        }
+      ]
+    },
+    "s": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 14
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 19
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 23
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 28
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 28
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 35
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 35
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 43
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 43
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 53
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 59
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 71
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 79
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 92
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 100
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 108
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 122
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 130
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 140
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 158
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 170
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 190
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 208
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 232
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 252
+        }
+      ]
+    },
+    "t": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 18,
+          "max": 24,
+          "value": 41
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 41
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 51
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 54
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 66
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 75
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 91
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 104
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 122
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 134
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 146
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 166
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 180
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 196
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 218
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 240
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 268
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 294
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 330
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 360
+        }
+      ]
+    },
+    "u": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 18
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 23
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 28
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 33
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 33
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 41
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 48
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 60
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 70
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 87
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 102
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 124
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 144
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 170
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 190
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 210
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 236
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 258
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 284
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 315
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 350
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 390
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 435
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 490
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 540
+        }
+      ]
+    },
+    "v": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 18,
+          "max": 24,
+          "value": 47
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 55
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 68
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 81
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 102
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 120
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 146
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 172
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 202
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 228
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 252
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 284
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 310
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 340
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 385
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 425
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 475
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 530
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 595
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 660
+        }
+      ]
+    },
+    "x": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 20
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 28
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 34
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 40
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 45
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 54
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 64
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 80
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 97
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 122
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 146
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 178
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 210
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 248
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 280
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 310
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 350
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 385
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 425
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 475
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 525
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 590
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 660
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 740
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 820
+        }
+      ]
+    },
+    "y": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 18,
+          "max": 24,
+          "value": 64
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 76
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 96
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 116
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 148
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 178
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 218
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 258
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 305
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 345
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 385
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 435
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 480
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 530
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 590
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 655
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 730
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 820
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 920
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 1020
+        }
+      ]
+    },
+    "z": {
+      "type": "shaft",
+      "basis": "ei",
+      "table": [
+        {
+          "min": 0,
+          "max": 3,
+          "value": 26
+        },
+        {
+          "min": 3,
+          "max": 6,
+          "value": 35
+        },
+        {
+          "min": 6,
+          "max": 10,
+          "value": 42
+        },
+        {
+          "min": 10,
+          "max": 14,
+          "value": 50
+        },
+        {
+          "min": 14,
+          "max": 18,
+          "value": 60
+        },
+        {
+          "min": 18,
+          "max": 24,
+          "value": 80
+        },
+        {
+          "min": 24,
+          "max": 30,
+          "value": 94
+        },
+        {
+          "min": 30,
+          "max": 40,
+          "value": 118
+        },
+        {
+          "min": 40,
+          "max": 50,
+          "value": 142
+        },
+        {
+          "min": 50,
+          "max": 65,
+          "value": 180
+        },
+        {
+          "min": 65,
+          "max": 80,
+          "value": 218
+        },
+        {
+          "min": 80,
+          "max": 100,
+          "value": 268
+        },
+        {
+          "min": 100,
+          "max": 120,
+          "value": 318
+        },
+        {
+          "min": 120,
+          "max": 140,
+          "value": 378
+        },
+        {
+          "min": 140,
+          "max": 160,
+          "value": 428
+        },
+        {
+          "min": 160,
+          "max": 180,
+          "value": 478
+        },
+        {
+          "min": 180,
+          "max": 200,
+          "value": 540
+        },
+        {
+          "min": 200,
+          "max": 225,
+          "value": 595
+        },
+        {
+          "min": 225,
+          "max": 250,
+          "value": 660
+        },
+        {
+          "min": 250,
+          "max": 280,
+          "value": 730
+        },
+        {
+          "min": 280,
+          "max": 315,
+          "value": 810
+        },
+        {
+          "min": 315,
+          "max": 355,
+          "value": 900
+        },
+        {
+          "min": 355,
+          "max": 400,
+          "value": 1010
+        },
+        {
+          "min": 400,
+          "max": 450,
+          "value": 1130
+        },
+        {
+          "min": 450,
+          "max": 500,
+          "value": 1250
+        }
+      ]
+    }
+  }
+}

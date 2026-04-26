@@ -1,0 +1,94 @@
+#pragma once
+#include <string>
+#include <uf.h>
+#include <uf_ui.h>
+#include <stdio.h>
+#include <NXOpen/Session.hxx>
+#include <NXOpen/UI.hxx>
+#include <NXOpen/Selection.hxx>
+#include <NXOpen/NXObject.hxx>
+#include <uf_defs.h>
+#include <NXOpen/NXException.hxx>
+#include <NXOpen/Session.hxx>
+#include <NXOpen/Session.hxx>
+#include <NXOpen/UI.hxx>
+#include <NXOpen/Selection.hxx>
+#include <NXOpen/NXObject.hxx>
+#include <NXOpen/Annotations_Dimension.hxx>
+#include <NXOpen/Annotations_AppendedText.hxx>
+#include <NXOpen/Annotations_AppendedTextBuilder.hxx>
+#include <NXOpen/Part.hxx>
+#include <NXOpen/PartCollection.hxx>
+#include <NXOpen/NXException.hxx>
+#include <NXOpen/Annotations_Annotation.hxx>
+#include <NXOpen/Annotations_AppendedTextBuilder.hxx>
+#include <NXOpen/Annotations_BaseLinearDimensionBuilder.hxx>
+#include <NXOpen/Annotations_BreakSettingsBuilder.hxx>
+#include <NXOpen/Annotations_DimensionCollection.hxx>
+#include <NXOpen/Annotations_DimensionMeasurementBuilder.hxx>
+#include <NXOpen/Annotations_DimensionSetBuilder.hxx>
+#include <NXOpen/Annotations_DimensionStyleBuilder.hxx>
+#include <NXOpen/Annotations_DisplayStyleBuilder.hxx>
+#include <NXOpen/Annotations_DrivingValueBuilder.hxx>
+#include <NXOpen/Annotations_ForeshorteningSymbolBuilder.hxx>
+#include <NXOpen/Annotations_ForeshorteningSymbolSettingsBuilder.hxx>
+#include <NXOpen/Annotations_FrameBarElementStyleBuilder.hxx>
+#include <NXOpen/Annotations_FrameBarStyleBuilder.hxx>
+#include <NXOpen/Annotations_HatchStyleBuilder.hxx>
+#include <NXOpen/Annotations_HoleCalloutSettingsBuilder.hxx>
+#include <NXOpen/Annotations_HorizontalDimension.hxx>
+#include <NXOpen/Annotations_LetteringStyleBuilder.hxx>
+#include <NXOpen/Annotations_LineArrowStyleBuilder.hxx>
+#include <NXOpen/Annotations_LinearDimensionBuilder.hxx>
+#include <NXOpen/Annotations_OrdinateStyleBuilder.hxx>
+#include <NXOpen/Annotations_OriginBuilder.hxx>
+#include <NXOpen/Annotations_PlaneBuilder.hxx>
+#include <NXOpen/Annotations_RadialStyleBuilder.hxx>
+#include <NXOpen/Annotations_SelectAnnotation.hxx>
+#include <NXOpen/Annotations_SingleSidedDisplayBuilder.hxx>
+#include <NXOpen/Annotations_StyleBuilder.hxx>
+#include <NXOpen/Annotations_SymbolStyleBuilder.hxx>
+#include <NXOpen/Annotations_UnitsStyleBuilder.hxx>
+#include <NXOpen/Assemblies_Component.hxx>
+#include <NXOpen/BasePart.hxx>
+#include <NXOpen/Builder.hxx>
+#include <NXOpen/Direction.hxx>
+#include <NXOpen/DisplayableObject.hxx>
+#include <NXOpen/Drawings_DraftingView.hxx>
+#include <NXOpen/Drawings_SelectDraftingView.hxx>
+#include <NXOpen/Expression.hxx>
+#include <NXOpen/FontCollection.hxx>
+#include <NXOpen/MenuBar_ContextMenuProperties.hxx>
+#include <NXOpen/NXObject.hxx>
+#include <NXOpen/Part.hxx>
+#include <NXOpen/PartCollection.hxx>
+#include <NXOpen/SelectDisplayableObject.hxx>
+#include <NXOpen/SelectNXObject.hxx>
+#include <NXOpen/SelectObject.hxx>
+#include <NXOpen/Selection.hxx>
+#include <NXOpen/Session.hxx>
+#include <NXOpen/Sketch.hxx>
+#include <NXOpen/TaggedObject.hxx>
+#include <NXOpen/Unit.hxx>
+#include <NXOpen/View.hxx>
+#include <NXOpen/ViewCollection.hxx>
+#include <NXOpen/Xform.hxx>
+#include <NXOpen/Annotations_LinearDimensionBuilder.hxx>
+#include <NXOpen/Annotations_AppendedTextBuilder.hxx>
+#include <NXOpen/Part.hxx>
+#include <NXOpen/PartCollection.hxx>
+#include <NXOpen/NXException.hxx>
+
+struct Deviation
+{
+	double upper;
+	double lower;
+};
+
+struct FitResult
+{
+	Deviation hole;
+	Deviation shaft;
+};
+
+FitResult ComputeFit(double size, const std::string& fitStr);

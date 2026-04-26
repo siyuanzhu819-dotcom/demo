@@ -1,0 +1,14 @@
+﻿  ComDiff.cpp
+e:\ug12\ugopen\nxopen\nxexception.hxx(27): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 class“NXOpen::NXException”的基
+  e:\vs2017\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: 参见“std::exception”的声明
+  e:\ug12\ugopen\nxopen\nxexception.hxx(26): note: 参见“NXOpen::NXException”的声明
+d:\nxopen\source\comdiff\comdiff\comdiff.hpp(463): warning C4251: “ComDiff::selectedFit”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“ComDiff”的客户端使用
+  e:\vs2017\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\nxopen\source\comdiff\comdiff\comdiff.cpp(267): warning C4101: “ex”: 未引用的局部变量
+  tolerance.cpp
+e:\ug12\ugopen\nxopen\nxexception.hxx(27): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 class“NXOpen::NXException”的基
+  e:\vs2017\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: 参见“std::exception”的声明
+  e:\ug12\ugopen\nxopen\nxexception.hxx(26): note: 参见“NXOpen::NXException”的声明
+  正在生成代码...
+    正在创建库 D:\NXOPEN\source\ComDiff\x64\Debug\/ComDiff.lib 和对象 D:\NXOPEN\source\ComDiff\x64\Debug\/ComDiff.exp
+  ComDiff.vcxproj -> D:\NXOPEN\source\ComDiff\x64\Debug\ComDiff.dll

@@ -1,0 +1,7 @@
+﻿  canshuhua.cpp
+e:\ug12\ugopen\nxopen\nxexception.hxx(27): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 class“NXOpen::NXException”的基
+  e:\vs2017\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: 参见“std::exception”的声明
+  e:\ug12\ugopen\nxopen\nxexception.hxx(26): note: 参见“NXOpen::NXException”的声明
+d:\nxopen\source\canshuhua\canshuhua\canshuhua.cpp(614): warning C4101: “ex”: 未引用的局部变量
+    正在创建库 D:\NXOPEN\source\canshuhua\x64\Debug\/canshuhua.lib 和对象 D:\NXOPEN\source\canshuhua\x64\Debug\/canshuhua.exp
+  canshuhua.vcxproj -> D:\NXOPEN\source\canshuhua\x64\Debug\canshuhua.dll
